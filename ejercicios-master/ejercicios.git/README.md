@@ -16,7 +16,7 @@ A continuación se muestra el programa *"Hola mundo"* en Java.
 public class HolaMundo { // Clase principal
   public static void main(String[] args) {
     System.out.println("¡Hola mundo!");
-    System.out.println("Programa realizado por Daniel Campaña Luque");
+    System.out.println("Programa realizado por José Manuel Suárez Jiménez");
   }
 }
 ```
